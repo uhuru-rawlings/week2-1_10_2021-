@@ -14,4 +14,6 @@
 
 ##### To view from your loval machine
       1. you download the zip file
-      2. extract the file from your Download folder or(Specified download location)
+      2. extract the file from your Download folder or(Specified download location).
+      3. You can then open the index.html with prefered browser
+      4. Or you can edit it with prefered text editor.
