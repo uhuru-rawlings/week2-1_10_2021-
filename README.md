@@ -9,5 +9,9 @@
 #### follow the following instruction.
      you can ether view this on a browser without downloading it or
      you can download the code from here.
-     ###### To view on a browser click on the link bellow.
+###### To view on a browser click on the link bellow.
 ###### [This is the link to the desigh](https://drive.google.com/drive/folders/1m39zuC6FevjbZvdxNAY27-9Dozb2U39_)
+
+##### To view from your loval machine
+      1. you download the zip file
+      2. extract the file from your Download folder or(Specified download location)
