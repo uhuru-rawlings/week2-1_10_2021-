@@ -5,8 +5,8 @@
 ###### I used HTML, CSS
 [The link to the page](https://uhuru-rawlings.github.io/week2-1_10_2021-/)
 ###### The project was already designed 
-### To execiute this project 
-#### follow the following instruction.
+##### To execiute this project 
+##### follow the following instruction.
      you can ether view this on a browser without downloading it or
      you can download the code from here.
 ###### To view on a browser click on the link bellow.
