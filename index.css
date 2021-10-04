@@ -287,3 +287,15 @@ input[type=email]{
 p{
     color:#242623;
 }
+@media only screen and (min-width: 1920) {
+    body{
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+}
+@media only screen and (min-width: 1620) {
+    body{
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+}
